@@ -25,6 +25,10 @@ Tools Required:
    - Prometheus
    - Grafana
 
+### Launch EC2 (Ubuntu 22.04):
+- Create EC2 Instance on AWS
+- Connect to the instance using SSH.
+
 ### Configuring Jenkins server
 
 Pre-Requisites:
