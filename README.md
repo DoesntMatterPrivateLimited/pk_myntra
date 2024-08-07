@@ -194,8 +194,6 @@ Login using username: admin, Passsword: admin and Change the password
    
 Now at the right top corner click profile icon ->  My Account -> Security, Under Generate Token give a name and click Generate and copy the Token.
    
-![Screenshot ](https://user-images.githubusercontent.com/129657174/230658495-a4ee14e9-df19-4bfa-8cec-0b9ccc3abb76.png)
-
 
 ### Configuring Credentials on Jenkins
 
