@@ -100,7 +100,7 @@ Wait for the Jenkins to Install suggested plugins
 
 Jenkins Installation is Successful. You can now starting using the Jenkins 
 
-<img width="990" alt="Screenshot 2023-02-01 at 11 14 13 AM" src="https://user-images.githubusercontent.com/43399466/215961440-3f13f82b-61a2-4117-88bc-0da265a67fa7.png">
+<img width="990" src="https://user-images.githubusercontent.com/43399466/215961440-3f13f82b-61a2-4117-88bc-0da265a67fa7.png">
 
 Install the Required plugins in Jenkins
 
@@ -113,7 +113,7 @@ Install the Required plugins in Jenkins
    - Select the plugins and click the Install button.
    - Restart Jenkins after the plugin is installed. `http://<ec2-instance-public-ip-address>:8080/restart`
    
-<img width="1392" alt="Screenshot 2023-02-01 at 12 17 02 PM" src="https://user-images.githubusercontent.com/43399466/215973898-7c366525-15db-4876-bd71-49522ecb267d.png">
+<img width="1392" src="https://user-images.githubusercontent.com/43399466/215973898-7c366525-15db-4876-bd71-49522ecb267d.png">
 
 Wait for the Jenkins to be restarted.
 
