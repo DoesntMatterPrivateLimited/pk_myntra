@@ -55,7 +55,7 @@ sudo systemctl enable jenkins
 sudo systemctl start jenkins
 ```
 
-Install NodeJS
+Install NodeJS-16
 
 ```shell
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
