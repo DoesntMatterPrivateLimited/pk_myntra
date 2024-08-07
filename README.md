@@ -232,6 +232,7 @@ To scan image using trivy:
 ```
 trivy image <imageid>
 ```
+- Jenkins Pipeline
 
 ```groovy
 pipeline{
