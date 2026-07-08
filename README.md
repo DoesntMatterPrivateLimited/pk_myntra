@@ -1,4 +1,4 @@
-# NodeJS web application deploy on Kind ok
+# NodeJS web application deploy on Kind 
 
 
 This is a simple NodeJS web application that can be built using npm. NodeJS dependencies are handled using the package.json at the root directory of the repository.
